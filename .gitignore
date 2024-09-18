@@ -1,0 +1,12 @@
+reproducible_paper_template.Rproj
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Rdata
+*.rds
+*.Ruserdata
+*.synctex.gz
+*.log
+*.bbl
+.Rproj.user
+_deprecated/
